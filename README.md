@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oleg Nifontov
+# 👋 Hi, I'm Oleg 
 
 ### Python Backend Developer | AI Automation Engineer | Telegram Bot Developer
 

@@ -68,14 +68,6 @@ My focus is on building practical software that integrates external APIs, databa
 
 # ⭐ Featured Projects
 
-## 🤖 AI Career Assistant
-
-AI-powered Telegram assistant for resume generation, interview preparation and job search.
-
-**Stack**
-
-Python • aiogram • PostgreSQL • SQLAlchemy • OpenAI API
-
 ---
 
 ## 💇 AI Salon Concierge

@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <img src="./assets/banner-a.svg" alt="Oleg Nifontov — Python Backend Developer" width="100%" />
+  <img src="./assets/banner-a.gif" alt="Oleg Nifontov — Python Backend Developer" width="100%" />
 </div>
 
 <br>
@@ -93,7 +93,7 @@ I enjoy transforming ideas into production-ready software using clean architectu
 <br>
 
 <div align="center">
-  <img src="./assets/banner-b.svg" alt="Oleg Nifontov — Tech workflow" width="100%" />
+  <img src="./assets/banner-b.gif" alt="Oleg Nifontov — Tech workflow" width="100%" />
 </div>
 
 ---
@@ -196,7 +196,7 @@ I enjoy transforming ideas into production-ready software using clean architectu
 ---
 
 <div align="center">
-  <img src="./assets/banner-c.svg" alt="Oleg Nifontov — Profile footer banner" width="100%" />
+  <img src="./assets/banner-c.gif" alt="Oleg Nifontov — Profile footer banner" width="100%" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=nifontovoleg&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views" />
   <br><br>

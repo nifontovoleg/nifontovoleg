@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="ON logo">
+  <defs>
+    <linearGradient id="onGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer ring -->
+  <circle cx="100" cy="100" r="88" fill="#0B1220" stroke="url(#onGrad)" stroke-width="2.5"/>
+  <circle cx="100" cy="100" r="78" fill="url(#glass)" stroke="#1E3A5F" stroke-width="1"/>
+
+  <!-- Monogram ON -->
+  <g filter="url(#softGlow)" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-weight="700" letter-spacing="-2">
+    <text x="100" y="118" text-anchor="middle" font-size="72" fill="url(#onGrad)">ON</text>
+  </g>
+</svg>

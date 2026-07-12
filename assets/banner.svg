@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-label="Oleg Nifontov  Python Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="45%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#0A1628"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="35%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.45"/>
+    </pattern>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1500" height="420" fill="url(#bg)"/>
+  <rect width="1500" height="420" fill="url(#grid)"/>
+  <circle cx="1180" cy="180" r="180" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="1320" cy="320" r="120" fill="#1D4ED8" opacity="0.12" filter="url(#blur)"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1500" height="3" fill="url(#accent)"/>
+
+  <!-- Glass panel -->
+  <rect x="64" y="58" width="920" height="304" rx="24" fill="url(#panel)" stroke="#1E3A5F" stroke-width="1.5"/>
+  <rect x="64" y="58" width="920" height="1" fill="#60A5FA" opacity="0.35"/>
+
+  <!-- ON badge -->
+  <g transform="translate(96, 94)">
+    <circle cx="46" cy="46" r="46" fill="#0B1220" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="46" cy="46" r="38" fill="#111827" stroke="#1E3A5F" stroke-width="1"/>
+    <text x="46" y="58" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" fill="url(#accent)" letter-spacing="-1">ON</text>
+  </g>
+
+  <!-- Name + role -->
+  <text x="220" y="128" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#F8FAFC" letter-spacing="1">OLEG NIFONTOV</text>
+  <text x="220" y="172" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" fill="#93C5FD">Python Backend Developer  ·  AI Automation Engineer</text>
+
+  <!-- Headline -->
+  <text x="96" y="248" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#CBD5E1">Building AI Assistants, Automation Tools</text>
+  <text x="96" y="280" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#CBD5E1">&amp; Backend Systems with Python</text>
+
+  <!-- Tech chips -->
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">
+    <rect x="96" y="310" width="86" height="28" rx="8" fill="#122033" stroke="#1E3A5F"/>
+    <text x="139" y="329" text-anchor="middle">Python</text>
+
+    <rect x="194" y="310" width="92" height="28" rx="8" fill="#122033" stroke="#1E3A5F"/>
+    <text x="240" y="329" text-anchor="middle">FastAPI</text>
+
+    <rect x="298" y="310" width="118" height="28" rx="8" fill="#122033" stroke="#1E3A5F"/>
+    <text x="357" y="329" text-anchor="middle">PostgreSQL</text>
+
+    <rect x="428" y="310" width="132" height="28" rx="8" fill="#122033" stroke="#1E3A5F"/>
+    <text x="494" y="329" text-anchor="middle">Telegram Bots</text>
+
+    <rect x="572" y="310" width="108" height="28" rx="8" fill="#122033" stroke="#1E3A5F"/>
+    <text x="626" y="329" text-anchor="middle">OpenAI API</text>
+  </g>
+
+  <!-- Right side code window -->
+  <g transform="translate(1040, 78)">
+    <rect width="400" height="264" rx="18" fill="#0A101C" stroke="#1E3A5F" stroke-width="1.5"/>
+    <rect width="400" height="36" rx="18" fill="#111827"/>
+    <rect y="18" width="400" height="18" fill="#111827"/>
+    <circle cx="22" cy="18" r="5" fill="#F87171"/>
+    <circle cx="40" cy="18" r="5" fill="#FBBF24"/>
+    <circle cx="58" cy="18" r="5" fill="#34D399"/>
+    <text x="88" y="23" font-family="Consolas, Menlo, monospace" font-size="12" fill="#64748B">main.py</text>
+
+    <g font-family="Consolas, Menlo, monospace" font-size="14">
+      <text x="24" y="68" fill="#64748B">1</text>
+      <text x="48" y="68" fill="#C084FC">from</text>
+      <text x="92" y="68" fill="#E2E8F0"> fastapi</text>
+      <text x="168" y="68" fill="#C084FC"> import</text>
+      <text x="240" y="68" fill="#93C5FD"> FastAPI</text>
+
+      <text x="24" y="98" fill="#64748B">2</text>
+      <text x="48" y="98" fill="#E2E8F0">app = FastAPI()</text>
+
+      <text x="24" y="128" fill="#64748B">3</text>
+
+      <text x="24" y="158" fill="#64748B">4</text>
+      <text x="48" y="158" fill="#F472B6">@app.get</text>
+      <text x="120" y="158" fill="#E2E8F0">(</text>
+      <text x="132" y="158" fill="#86EFAC">"/health"</text>
+      <text x="212" y="158" fill="#E2E8F0">)</text>
+
+      <text x="24" y="188" fill="#64748B">5</text>
+      <text x="48" y="188" fill="#C084FC">async def</text>
+      <text x="136" y="188" fill="#93C5FD"> health</text>
+      <text x="192" y="188" fill="#E2E8F0">():</text>
+
+      <text x="24" y="218" fill="#64748B">6</text>
+      <text x="64" y="218" fill="#C084FC">return</text>
+      <text x="128" y="218" fill="#E2E8F0"> {</text>
+      <text x="148" y="218" fill="#86EFAC">"status"</text>
+      <text x="220" y="218" fill="#E2E8F0">:</text>
+      <text x="236" y="218" fill="#86EFAC">"ok"</text>
+      <text x="276" y="218" fill="#E2E8F0">}</text>
+
+      <text x="24" y="248" fill="#64748B">7</text>
+      <text x="48" y="248" fill="#475569"># AI · Bots · Backend</text>
+    </g>
+  </g>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="417" width="1500" height="3" fill="url(#accent)"/>
+</svg>

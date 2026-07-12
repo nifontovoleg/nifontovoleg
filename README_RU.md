@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Oleg Nifontov — Python Backend Developer" width="100%" />
+  <img src="./assets/banner-a.svg" alt="Oleg Nifontov — Python Backend Developer" width="100%" />
 </div>
 
 <br>
@@ -89,6 +89,12 @@
 | **API** | REST API, Telegram Bot API, VK API, Google Sheets API, OpenWeather API |
 | **Инструменты** | Git, GitHub, Linux, Docker (изучаю), VS Code, PyCharm |
 | **Прочее** | JSON, CSV, генерация PDF, CLI-приложения, логирование, обработка ошибок, retry, кэширование |
+
+<br>
+
+<div align="center">
+  <img src="./assets/banner-b.svg" alt="Oleg Nifontov — Tech workflow" width="100%" />
+</div>
 
 ---
 
@@ -190,10 +196,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/on-logo.svg" width="72" alt="ON logo" />
-  <br><br>
-  <b>Олег Нифонтов</b><br>
-  <i>Python Backend Developer · AI Automation Engineer · Telegram Bot Developer</i>
+  <img src="./assets/banner-c.svg" alt="Oleg Nifontov — Profile footer banner" width="100%" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=nifontovoleg&label=Просмотры%20профиля&color=3B82F6&style=flat-square" alt="Profile views" />
   <br><br>

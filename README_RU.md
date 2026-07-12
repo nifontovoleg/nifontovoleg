@@ -14,21 +14,24 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-nifontovoleg-0B1220?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/nifontovoleg)
-[![Website](https://img.shields.io/badge/Website-nifontovv.ru-0B1220?style=for-the-badge&logo=googlechrome&logoColor=60A5FA)](https://www.nifontovv.ru/)
-[![Telegram](https://img.shields.io/badge/Telegram-@olegugfv__reg59-0B1220?style=for-the-badge&logo=telegram&logoColor=60A5FA)](https://t.me/olegugfv_reg59)
-[![Email](https://img.shields.io/badge/Email-o.nifontov%40yandex.ru-0B1220?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:o.nifontov@yandex.ru)
-[![Location](https://img.shields.io/badge/Location-Краснокамск%2C%20Россия-0B1220?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)](#)
-[![Open To](https://img.shields.io/badge/Открыт%20к-Remote%20%7C%20Hybrid%20%7C%20Relocation-0B1220?style=for-the-badge&logo=briefcase&logoColor=60A5FA)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-nifontovoleg-181717?style=flat-square&labelColor=555555&logo=github&logoColor=white)](https://github.com/nifontovoleg)
+[![Website](https://img.shields.io/badge/Website-nifontovv.ru-00CCFF?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://www.nifontovv.ru/)
+[![Telegram](https://img.shields.io/badge/Telegram-@olegugfv__reg59-26A5E4?style=flat-square&labelColor=555555&logo=telegram&logoColor=white)](https://t.me/olegugfv_reg59)
+[![Email](https://img.shields.io/badge/Email-o.nifontov%40yandex.ru-CF3E2E?style=flat-square&labelColor=555555&logo=gmail&logoColor=white)](mailto:o.nifontov@yandex.ru)
+[![Location](https://img.shields.io/badge/Location-Россия-34A853?style=flat-square&labelColor=555555&logo=googlemaps&logoColor=white)](#)
+[![Open To](https://img.shields.io/badge/Открыт%20к-Remote%20%7C%20Hybrid%20%7C%20Relocation-7C3AED?style=flat-square&labelColor=555555&logo=briefcase&logoColor=white)](#)
 
 </div>
 
 <div align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-1E3A5F?style=flat-square" alt="English" /></a>
-  <a href="./README_RU.md"><img src="https://img.shields.io/badge/RU-Русский-3B82F6?style=flat-square" alt="Русский" /></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-1E3A5F?style=flat-square&labelColor=555555" alt="English" /></a>
+  <a href="./README_RU.md"><img src="https://img.shields.io/badge/RU-Русский-3B82F6?style=flat-square&labelColor=555555" alt="Русский" /></a>
 </div>
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Обо мне
 
@@ -43,11 +46,14 @@
 | **Имя** | Олег Нифонтов |
 | **Роль** | Python Backend Developer · AI Automation Engineer · Telegram Bot Developer |
 | **Фокус** | Backend-системы, AI-ассистенты, инструменты автоматизации, веб-приложения |
-| **Локация** | Краснокамск, Пермский край, Россия |
+| **Локация** | Россия |
 | **Открыт к** | Remote · Hybrid · Relocation |
 | **Языки** | Русский (родной) · Английский (средний / техническое чтение) |
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Текущий фокус
 
@@ -57,7 +63,10 @@
 - Применение **async Python**, чистой архитектуры и надёжной обработки ошибок
 - Изучение **Docker** для воспроизводимых backend-окружений
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Технологический стек
 
@@ -96,20 +105,23 @@
   <img src="./assets/banner-b.gif" alt="Oleg Nifontov — Tech workflow" width="100%" />
 </div>
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Избранные проекты
 
 | Проект | Описание | Стек | Статус |
 | :--- | :--- | :--- | :---: |
-| [telegram-ai-career-assistant](https://github.com/nifontovoleg/telegram-ai-career-assistant) | AI-ассистент в Telegram для поиска работы, генерации резюме и подготовки к собеседованиям | Python · aiogram · PostgreSQL · SQLAlchemy · OpenAI API | Active |
-| [strizhka-ai-bot](https://github.com/nifontovoleg/strizhka-ai-bot) | AI-консьерж для салонов красоты: автоматизация записи и умная коммуникация с клиентами | Python · Telegram Bot API · OpenAI API | Active |
-| [dual-llm-text-agent](https://github.com/nifontovoleg/dual-llm-text-agent) | Приложение, объединяющее несколько LLM для интеллектуальной обработки текста | Python · OpenAI API | Active |
-| [telegram-summary-bot](https://github.com/nifontovoleg/telegram-summary-bot) | Telegram-бот для суммаризации переписок и документов с помощью AI | Python · Telegram Bot API · OpenAI API | Active |
-| [AIWellnessAssistantforPets_bot](https://github.com/nifontovoleg/AIWellnessAssistantforPets_bot) | AI-ассистент для владельцев питомцев с рекомендациями по уходу | Python · OpenAI API | Active |
-| [pdf-generator-from-data](https://github.com/nifontovoleg/pdf-generator-from-data) | Генерация профессиональных PDF из структурированных данных | Python · ReportLab | Active |
-| [currency-travel-bot](https://github.com/nifontovoleg/currency-travel-bot) | Ассистент конвертации валют для путешественников | Python · REST API | Completed |
-| [vk-weather-bot](https://github.com/nifontovoleg/vk-weather-bot) | Погодный бот для VK на OpenWeather API | Python · VKBottle · OpenWeather API | Completed |
+| [telegram-ai-career-assistant](https://github.com/nifontovoleg/telegram-ai-career-assistant) | AI-ассистент в Telegram для поиска работы, генерации резюме и подготовки к собеседованиям | Python · aiogram · PostgreSQL · SQLAlchemy · OpenAI API | 🟢 Active |
+| [strizhka-ai-bot](https://github.com/nifontovoleg/strizhka-ai-bot) | AI-консьерж для салонов красоты: автоматизация записи и умная коммуникация с клиентами | Python · Telegram Bot API · OpenAI API | 🟢 Active |
+| [dual-llm-text-agent](https://github.com/nifontovoleg/dual-llm-text-agent) | Приложение, объединяющее несколько LLM для интеллектуальной обработки текста | Python · OpenAI API | 🟢 Active |
+| [telegram-summary-bot](https://github.com/nifontovoleg/telegram-summary-bot) | Telegram-бот для суммаризации переписок и документов с помощью AI | Python · Telegram Bot API · OpenAI API | 🟢 Active |
+| [AIWellnessAssistantforPets_bot](https://github.com/nifontovoleg/AIWellnessAssistantforPets_bot) | AI-ассистент для владельцев питомцев с рекомендациями по уходу | Python · OpenAI API | 🟢 Active |
+| [pdf-generator-from-data](https://github.com/nifontovoleg/pdf-generator-from-data) | Генерация профессиональных PDF из структурированных данных | Python · ReportLab | 🟢 Active |
+| [currency-travel-bot](https://github.com/nifontovoleg/currency-travel-bot) | Ассистент конвертации валют для путешественников | Python · REST API | 🔵 Completed |
+| [vk-weather-bot](https://github.com/nifontovoleg/vk-weather-bot) | Погодный бот для VK на OpenWeather API | Python · VKBottle · OpenWeather API | 🔵 Completed |
 
 <details>
 <summary><b>Карточки репозиториев</b></summary>
@@ -132,7 +144,10 @@
 </div>
 </details>
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## GitHub-аналитика
 
@@ -153,7 +168,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nifontovoleg&bg_color=0B1220&color=60A5FA&line=3B82F6&point=93C5FD&area=true&area_color=1E3A5F&hide_border=true" width="100%" alt="Contribution graph" />
 </div>
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Достижения
 
@@ -163,7 +181,10 @@
 - Создал утилиты для **генерации PDF**, конвертации валют и погодных API
 - Продолжаю развитие в сторону **FastAPI**-сервисов и контейнеризации
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Roadmap
 
@@ -175,13 +196,19 @@
 | **Ops** | Docker для сервисов, базовый CI, структурированные логи и мониторинг |
 | **Продукт** | Расширять демо на портфолио и аккуратные релизы |
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Образование
 
 **Python Developer** — самостоятельное обучение через практические проекты, AI-автоматизацию и backend-разработку.
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## Контакты
 
@@ -193,7 +220,10 @@
 | **Telegram** | [@olegugfv_reg59](https://t.me/olegugfv_reg59) |
 | **LinkedIn** | Скоро |
 
----
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
 <div align="center">
   <img src="./assets/banner-c.gif" alt="Oleg Nifontov — Profile footer banner" width="100%" />

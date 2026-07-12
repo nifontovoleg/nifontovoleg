@@ -8,7 +8,7 @@
 | :--- | :--- |
 | **Name** | Oleg Nifontov |
 | **Role** | Python Backend Developer · AI Automation Engineer · Telegram Bot Developer |
-| **Location** | Krasnokamsk, Perm Krai, Russia |
+| **Location** | Russia |
 | **Open to** | Remote · Hybrid · Relocation |
 | **Email** | [o.nifontov@yandex.ru](mailto:o.nifontov@yandex.ru) |
 | **GitHub** | [nifontovoleg](https://github.com/nifontovoleg) |

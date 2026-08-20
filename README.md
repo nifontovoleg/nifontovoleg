@@ -32,7 +32,6 @@
   <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-# OLEG NIFONTOV
 
 ## Python Backend Developer
 ### AI Automation and AI Agents
@@ -43,7 +42,7 @@ Python is the foundation. Backend is the core engineering skill. AI is the speci
 
 | | |
 | :--- | :--- |
-| **Name** | Oleg Nifontov |
+| **Name** | Oleg |
 | **Role** | Python Backend Developer |
 | **Specialization** | AI Automation and AI Agents |
 | **Location** | Russia |
@@ -126,8 +125,6 @@ Telegram shop agent split into an aiogram 3 bot and a FastMCP server. Catalog, c
 Telegram AI assistant for a barbershop: dialogue over a service knowledge base, appointment booking with slot checks, admin notifications and optional Google Calendar sync. Function calling drives booking actions.
 
 **Stack:** Python · python-telegram-bot · GigaChat · SQLite · Google Calendar API (optional)
-
-[Screenshot](https://github.com/nifontovoleg/strizhka-ai-bot/blob/main/screenshot.png)
 
 ### [langchain-content-pipeline](https://github.com/nifontovoleg/langchain-content-pipeline)
 

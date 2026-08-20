@@ -1,58 +1,46 @@
 # Oleg Nifontov — Professional Profile
 
-> Building AI Assistants, Automation Tools & Backend Systems with Python
+> I build practical AI-powered backend systems, AI assistants, agents and automation solutions with Python.
 
 ## Profile
 
 | | |
 | :--- | :--- |
 | **Name** | Oleg Nifontov |
-| **Role** | Python Backend Developer · AI Automation Engineer · Telegram Bot Developer |
+| **Role** | Python Backend Developer |
+| **Specialization** | AI Automation and AI Agents |
 | **Location** | Russia |
 | **Open to** | Remote · Hybrid · Relocation |
 | **Email** | [o.nifontov@yandex.ru](mailto:o.nifontov@yandex.ru) |
 | **GitHub** | [nifontovoleg](https://github.com/nifontovoleg) |
-| **Website** | [nifontovv.ru](https://www.nifontovv.ru/) |
+| **Website** | [nifontovv.ru](https://nifontovv.ru/) |
+| **Portfolio** | [nifontov.tech](https://www.nifontov.tech/) |
 | **Telegram** | [@olegugfv_reg59](https://t.me/olegugfv_reg59) |
 | **Languages** | Russian (Native) · English (Intermediate / Technical Reading) |
 
 ## Summary
 
-I'm a Python Backend Developer focused on building AI-powered applications, backend systems, Telegram bots and business automation.
+Python Backend Developer focused on AI automation, AI agents, REST APIs and business process automation.
 
-My main interests include AI assistants, REST API development, automation, PostgreSQL databases and scalable backend solutions.
-
-I enjoy transforming ideas into production-ready software using clean architecture, asynchronous programming and modern Python technologies.
+Python is the foundation. Backend is the core engineering skill. AI is the specialization. Telegram and VK are channels for applied assistants and bots.
 
 ## Core Competencies
 
-- Python backend development and async programming
-- Telegram bot systems (aiogram 3, Telegram Bot API)
-- AI integrations (OpenAI API, GigaChat API)
+- Python backend development (FastAPI, Flask, asyncio)
+- AI assistants, AI agents, RAG and LLM integrations
 - REST APIs and third-party service integrations
-- PostgreSQL / SQLite data layers with SQLAlchemy
+- Telegram and VK bots (aiogram 3, python-telegram-bot, vkbottle)
+- SQLite / PostgreSQL with SQLAlchemy and Pydantic
+- Google Sheets, Drive and Calendar integrations
 - Automation utilities (PDF, CSV/JSON pipelines, CLI tools)
-- Reliability patterns: logging, error handling, retries, caching
-
-## Education
-
-**Python Developer** — self-study through practical projects, AI automation and backend development.
 
 ## Selected Projects
 
-1. **telegram-ai-career-assistant** — AI Telegram assistant for job search, resume generation and interview prep  
-2. **strizhka-ai-bot** — AI concierge for beauty salons with booking automation  
-3. **dual-llm-text-agent** — multi-LLM text processing application  
-4. **telegram-summary-bot** — conversation and document summarization bot  
-5. **AIWellnessAssistantforPets_bot** — pet wellness AI assistant  
-6. **pdf-generator-from-data** — PDF generation from structured data  
-7. **currency-travel-bot** — currency conversion assistant for travelers  
-8. **vk-weather-bot** — VK weather bot with OpenWeather API  
-
-## Roadmap
-
-- Strengthen FastAPI for production APIs
-- Improve PostgreSQL modeling and migrations
-- Explore multi-agent AI workflows
-- Adopt Docker and lightweight CI practices
-- Expand portfolio demos and polished public releases
+1. **EXELIOV2-CRM-GDRIVE** — FastAPI mini-CRM with Google Sheets / Drive export
+2. **pinecone-rag-telegram-bot** — Pinecone RAG agent with LangChain tools
+3. **shopmcp** — Telegram shop agent over MCP (aiogram 3, SQLite)
+4. **strizhka-ai-bot** — GigaChat salon assistant with booking and function calling
+5. **langchain-content-pipeline** — 4-step LangChain content generation chain
+6. **flask-go-users-api** — Flask users REST API with OpenAPI 3.1
+7. **langchain-telegram-tool-agent** — LangChain tool-calling Telegram agent
+8. **VKONTAKTE_BOT** — VK AI assistant with booking, quiz and FAQ

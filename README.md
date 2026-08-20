@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=820&lines=Python+Backend+Developer;AI+Automation+Engineer;Telegram+Bot+Developer;Building+AI+Assistants+%26+Backend+Systems" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=820&lines=Python+Backend+Developer;AI+Automation+and+AI+Agents;Building+AI+Assistants%2C+Agents+%26+Backend+Systems" alt="Typing headline" />
 </div>
 
 <br>
@@ -15,11 +15,10 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nifontovoleg-181717?style=flat-square&labelColor=555555&logo=github&logoColor=white)](https://github.com/nifontovoleg)
-[![Website](https://img.shields.io/badge/Website-nifontovv.ru-00CCFF?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://www.nifontovv.ru/)
+[![Website](https://img.shields.io/badge/Website-nifontovv.ru-00CCFF?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://nifontovv.ru/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nifontov.tech-6366F1?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://www.nifontov.tech/)
 [![Telegram](https://img.shields.io/badge/Telegram-@olegugfv__reg59-26A5E4?style=flat-square&labelColor=555555&logo=telegram&logoColor=white)](https://t.me/olegugfv_reg59)
 [![Email](https://img.shields.io/badge/Email-o.nifontov%40yandex.ru-CF3E2E?style=flat-square&labelColor=555555&logo=gmail&logoColor=white)](mailto:o.nifontov@yandex.ru)
-[![Location](https://img.shields.io/badge/Location-Russia-34A853?style=flat-square&labelColor=555555&logo=googlemaps&logoColor=white)](#)
-[![Open To](https://img.shields.io/badge/Open%20To-Remote%20%7C%20Hybrid%20%7C%20Relocation-7C3AED?style=flat-square&labelColor=555555&logo=briefcase&logoColor=white)](#)
 
 </div>
 
@@ -33,19 +32,20 @@
   <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## About Me
+# OLEG NIFONTOV
 
-I'm a **Python Backend Developer** focused on building AI-powered applications, backend systems, Telegram bots and business automation.
+## Python Backend Developer
+### AI Automation and AI Agents
 
-My main interests include AI assistants, REST API development, automation, PostgreSQL databases and scalable backend solutions.
+I build practical AI-powered backend systems, AI assistants, agents and automation solutions with Python.
 
-I enjoy transforming ideas into production-ready software using clean architecture, asynchronous programming and modern Python technologies.
+Python is the foundation. Backend is the core engineering skill. AI is the specialization. Automation is how these systems create value. Telegram and VK are delivery channels for applied products.
 
 | | |
 | :--- | :--- |
 | **Name** | Oleg Nifontov |
-| **Role** | Python Backend Developer · AI Automation Engineer · Telegram Bot Developer |
-| **Focus** | Backend systems, AI assistants, automation tools, web applications |
+| **Role** | Python Backend Developer |
+| **Specialization** | AI Automation and AI Agents |
 | **Location** | Russia |
 | **Open to** | Remote · Hybrid · Relocation |
 | **Languages** | Russian (Native) · English (Intermediate / Technical Reading) |
@@ -55,13 +55,17 @@ I enjoy transforming ideas into production-ready software using clean architectu
   <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## Current Focus
+## What I Build
 
-- Designing **AI assistants** and automation workflows with OpenAI / GigaChat APIs
-- Building **Telegram bots** on aiogram 3 with PostgreSQL-backed persistence
-- Strengthening **FastAPI** skills for production REST APIs
-- Applying **async Python**, clean architecture and reliable error handling
-- Learning **Docker** for reproducible backend environments
+- Python backend systems
+- REST APIs
+- AI assistants
+- AI agents
+- RAG systems
+- LLM integrations
+- Telegram and VK bots
+- Business automation
+- API integrations
 
 
 <div align="center">
@@ -72,18 +76,7 @@ I enjoy transforming ideas into production-ready software using clean architectu
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=py,html,css,bash&perline=8" alt="Languages" />
-
-<br><br>
-
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,linux,docker&perline=8" alt="Backend and data" />
-
-<br><br>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&perline=8" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,sqlite,linux,git,github&perline=8" alt="Tech stack" />
 
 </div>
 
@@ -91,15 +84,13 @@ I enjoy transforming ideas into production-ready software using clean architectu
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL, HTML, CSS, Bash |
-| **Backend** | FastAPI (learning), aiogram 3, SQLAlchemy, Asyncio, psycopg2, Jinja2 |
-| **Databases** | PostgreSQL, SQLite |
-| **AI** | OpenAI API, GigaChat API |
-| **APIs** | REST API, Telegram Bot API, VK API, Google Sheets API, OpenWeather API |
-| **Tools** | Git, GitHub, Linux, Docker (learning), VS Code, PyCharm |
-| **Other** | JSON, CSV, PDF generation, CLI apps, logging, error handling, retry logic, caching |
+| **Languages** | Python, SQL, Bash |
+| **Backend** | FastAPI, Flask, aiogram 3, SQLAlchemy, Pydantic, asyncio |
+| **Databases** | SQLite, PostgreSQL |
+| **AI** | OpenAI API, LangChain, LangGraph, Pinecone, GigaChat API |
+| **APIs & integrations** | REST APIs, Telegram Bot API, VK API (vkbottle), Google Sheets / Drive / Calendar |
+| **Tools** | Git, GitHub, Linux, VS Code, PyCharm |
 
-<br>
 
 <div align="center">
   <img src="./assets/banner-b.gif" alt="Oleg Nifontov — Tech workflow" width="100%" />
@@ -112,34 +103,56 @@ I enjoy transforming ideas into production-ready software using clean architectu
 
 ## Featured Projects
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :---: |
-| [telegram-ai-career-assistant](https://github.com/nifontovoleg/telegram-ai-career-assistant) | AI-powered Telegram assistant for job search, resume generation and interview preparation | Python · aiogram · PostgreSQL · SQLAlchemy · OpenAI API | 🟢 Active |
-| [strizhka-ai-bot](https://github.com/nifontovoleg/strizhka-ai-bot) | AI concierge for beauty salons with booking automation and intelligent client communication | Python · Telegram Bot API · OpenAI API | 🟢 Active |
-| [dual-llm-text-agent](https://github.com/nifontovoleg/dual-llm-text-agent) | Application combining multiple LLMs for intelligent text processing | Python · OpenAI API | 🟢 Active |
-| [telegram-summary-bot](https://github.com/nifontovoleg/telegram-summary-bot) | Telegram bot that summarizes conversations and documents using AI | Python · Telegram Bot API · OpenAI API | 🟢 Active |
-| [AIWellnessAssistantforPets_bot](https://github.com/nifontovoleg/AIWellnessAssistantforPets_bot) | AI assistant for pet owners with wellness recommendations | Python · OpenAI API | 🟢 Active |
-| [pdf-generator-from-data](https://github.com/nifontovoleg/pdf-generator-from-data) | Generate professional PDF documents from structured data | Python · ReportLab | 🟢 Active |
-| [currency-travel-bot](https://github.com/nifontovoleg/currency-travel-bot) | Currency conversion assistant for travelers | Python · REST API | 🔵 Completed |
-| [vk-weather-bot](https://github.com/nifontovoleg/vk-weather-bot) | Weather bot for VK using OpenWeather API | Python · VKBottle · OpenWeather API | 🔵 Completed |
+### [EXELIOV2-CRM-GDRIVE](https://github.com/nifontovoleg/EXELIOV2-CRM-GDRIVE)
+
+Desktop mini-CRM with a FastAPI REST backend, SQLite storage and a Tkinter UI. Covers clients, deals, orders and tasks, with export to Google Sheets / Drive and styled KPI spreadsheets.
+
+**Stack:** Python · FastAPI · Pydantic · SQLite · Google Sheets API · Google Drive API
+
+### [pinecone-rag-telegram-bot](https://github.com/nifontovoleg/pinecone-rag-telegram-bot)
+
+RAG Telegram bot with Pinecone vector search, URL ingestion into embeddings, LangChain agent tools, per-user memory and an external REST tool.
+
+**Stack:** Python · LangChain · Pinecone · OpenAI-compatible API · Telegram Bot API
+
+### [shopmcp](https://github.com/nifontovoleg/shopmcp)
+
+Telegram shop agent split into an aiogram 3 bot and a FastMCP server. Catalog, cart and checkout live in SQLite; the model routes tool calls over MCP, with extra tools for weather, crypto and other public APIs.
+
+**Stack:** Python · aiogram 3 · FastMCP · SQLite · OpenAI-compatible API
+
+### [strizhka-ai-bot](https://github.com/nifontovoleg/strizhka-ai-bot)
+
+Telegram AI assistant for a barbershop: dialogue over a service knowledge base, appointment booking with slot checks, admin notifications and optional Google Calendar sync. Function calling drives booking actions.
+
+**Stack:** Python · python-telegram-bot · GigaChat · SQLite · Google Calendar API (optional)
+
+[Screenshot](https://github.com/nifontovoleg/strizhka-ai-bot/blob/main/screenshot.png)
+
+### [langchain-content-pipeline](https://github.com/nifontovoleg/langchain-content-pipeline)
+
+CLI content pipeline: a short brief goes through a 4-step LangChain chain (analysis → tools → generate → review) and is saved as a Telegram post or article draft.
+
+**Stack:** Python · LangChain · Pydantic v2 · OpenAI-compatible API
+
 
 <details>
 <summary><b>Pinned repository cards</b></summary>
 <br>
 <div align="center">
-  <a href="https://github.com/nifontovoleg/telegram-ai-career-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=telegram-ai-career-assistant&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="telegram-ai-career-assistant" />
+  <a href="https://github.com/nifontovoleg/EXELIOV2-CRM-GDRIVE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=EXELIOV2-CRM-GDRIVE&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="EXELIOV2-CRM-GDRIVE" />
   </a>
-  <a href="https://github.com/nifontovoleg/strizhka-ai-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=strizhka-ai-bot&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="strizhka-ai-bot" />
+  <a href="https://github.com/nifontovoleg/pinecone-rag-telegram-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=pinecone-rag-telegram-bot&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="pinecone-rag-telegram-bot" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/nifontovoleg/dual-llm-text-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=dual-llm-text-agent&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="dual-llm-text-agent" />
+  <a href="https://github.com/nifontovoleg/shopmcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=shopmcp&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="shopmcp" />
   </a>
-  <a href="https://github.com/nifontovoleg/telegram-summary-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=telegram-summary-bot&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="telegram-summary-bot" />
+  <a href="https://github.com/nifontovoleg/strizhka-ai-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=strizhka-ai-bot&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="strizhka-ai-bot" />
   </a>
 </div>
 </details>
@@ -149,7 +162,58 @@ I enjoy transforming ideas into production-ready software using clean architectu
   <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## GitHub Analytics
+## Additional Projects
+
+| Project | Focus |
+| :--- | :--- |
+| [flask-go-users-api](https://github.com/nifontovoleg/flask-go-users-api) | Users REST API in Flask (and a parallel Go service), SQLite, OpenAPI 3.1 |
+| [langchain-telegram-tool-agent](https://github.com/nifontovoleg/langchain-telegram-tool-agent) | LangChain tool-calling agent: search, weather, FX/crypto, files, HTTP, QR |
+| [dori-nemo-memory-bots](https://github.com/nifontovoleg/dori-nemo-memory-bots) | Two aiogram 3 bots comparing in-memory context vs PostgreSQL facts (SQLAlchemy 2) |
+| [VKONTAKTE_BOT](https://github.com/nifontovoleg/VKONTAKTE_BOT) | VK assistant: GPT chat, consultation booking, quiz and FAQ on vkbottle |
+| [telegram-summary-bot](https://github.com/nifontovoleg/telegram-summary-bot) | Collects Telegram messages into SQLite and builds GigaChat summaries; Flask viewer |
+| [haystack-telegram-agent-v2](https://github.com/nifontovoleg/haystack-telegram-agent-v2) | Haystack agent with Pinecone memory, document RAG and OpenAI tools |
+| [langchain-breed-agent](https://github.com/nifontovoleg/langchain-breed-agent) | LangChain / LangGraph agent with structured output and conversation memory |
+| [vk-weather-bot](https://github.com/nifontovoleg/vk-weather-bot) | VK weather bot: FSM, forecast, geolocation and air quality via OpenWeatherMap |
+| [dual-llm-text-agent](https://github.com/nifontovoleg/dual-llm-text-agent) | CLI chat agent with dialogue memory: Claude thinking mode and OpenAI models |
+| [pdf-generator-from-data](https://github.com/nifontovoleg/pdf-generator-from-data) | PDF generation from CSV, JSON and Google Sheets using HTML templates |
+
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+
+## AI and Automation
+
+| Direction | Where it shows up |
+| :--- | :--- |
+| **AI assistants** | Knowledge-base dialogue, booking and FAQ in Telegram / VK |
+| **AI agents** | Tool-calling agents (LangChain, Haystack, MCP) that call APIs and local tools |
+| **RAG** | Pinecone semantic search, URL/document ingestion, hybrid group memory |
+| **LLM pipelines** | Multi-step LangChain chains with Pydantic structured output |
+| **Function calling** | Booking slots, catalog/cart actions, weather and other external tools |
+| **API automation** | Google Sheets / Drive / Calendar, OpenWeather, public HTTP APIs |
+| **Business workflows** | CRM records and reports, salon booking, shop checkout, chat summarization |
+
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+
+## Backend Development
+
+| Area | Practice in public repos |
+| :--- | :--- |
+| **Python** | Async bots, CLI tools, REST services |
+| **REST API** | FastAPI CRM API; Flask users API with OpenAPI 3.1 |
+| **Databases** | SQLite across most apps; PostgreSQL + SQLAlchemy 2 in memory-bot backends |
+| **External APIs** | OpenAI-compatible LLMs, Google APIs, Telegram, VK, weather and market APIs |
+
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nifontovoleg&show_icons=true&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
@@ -173,52 +237,15 @@ I enjoy transforming ideas into production-ready software using clean architectu
   <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-## Achievements
-
-- Built and shipped multiple **production-oriented AI Telegram bots**
-- Integrated **OpenAI / GigaChat** into practical automation products
-- Worked with **PostgreSQL + SQLAlchemy** for persistent bot backends
-- Delivered utilities for **PDF generation**, currency conversion and weather APIs
-- Continuously expanding toward **FastAPI** services and containerized deployments
-
-
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</div>
-
-## Roadmap
-
-| Track | Next steps |
-| :--- | :--- |
-| **Backend** | Deepen FastAPI, authentication, service layering, testing |
-| **Data** | Stronger PostgreSQL modeling, migrations, query performance |
-| **AI** | Multi-agent flows, tool calling, reliable prompt pipelines |
-| **Ops** | Dockerize services, basic CI, structured logging & monitoring |
-| **Product** | Expand portfolio demos and polished README-driven releases |
-
-
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</div>
-
-## Education
-
-**Python Developer** — self-study through practical projects, AI automation and backend development.
-
-
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</div>
-
 ## Contact
 
 | Channel | Details |
 | :--- | :--- |
-| **Email** | [o.nifontov@yandex.ru](mailto:o.nifontov@yandex.ru) |
+| **Website** | [nifontovv.ru](https://nifontovv.ru/) |
+| **Portfolio / applications** | [nifontov.tech](https://www.nifontov.tech/) |
 | **GitHub** | [github.com/nifontovoleg](https://github.com/nifontovoleg) |
-| **Website** | [nifontovv.ru](https://www.nifontovv.ru/) |
+| **Email** | [o.nifontov@yandex.ru](mailto:o.nifontov@yandex.ru) |
 | **Telegram** | [@olegugfv_reg59](https://t.me/olegugfv_reg59) |
-| **LinkedIn** | Coming soon |
 
 
 <div align="center">
@@ -230,7 +257,7 @@ I enjoy transforming ideas into production-ready software using clean architectu
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=nifontovoleg&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views" />
   <br><br>
-  <sub>© 2026 Oleg Nifontov · Built with Python mindset</sub>
+  <sub>© 2026 Oleg Nifontov</sub>
   <br>
   <a href="#top">Back to top</a>
 </div>

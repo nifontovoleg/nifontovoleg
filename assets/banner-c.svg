@@ -35,13 +35,13 @@
 
   <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#9AA8B6">
     <text x="360" y="186"><tspan fill="#4DA6FF">/</tspan>  Python Backend Developer</text>
-    <text x="360" y="214"><tspan fill="#4DA6FF">/</tspan>  AI Automation Engineer</text>
-    <text x="360" y="242"><tspan fill="#4DA6FF">/</tspan>  Telegram Bot Developer</text>
-    <text x="360" y="270"><tspan fill="#4DA6FF">/</tspan>  Backend &amp; Web Applications</text>
+    <text x="360" y="214"><tspan fill="#4DA6FF">/</tspan>  AI Automation and AI Agents</text>
+    <text x="360" y="242"><tspan fill="#4DA6FF">/</tspan>  Telegram and VK Bots</text>
+    <text x="360" y="270"><tspan fill="#4DA6FF">/</tspan>  REST APIs and RAG</text>
   </g>
 
-  <text x="860" y="170" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#8B9AAB">Building AI Assistants, Automation Tools</text>
-  <text x="860" y="200" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#8B9AAB">&amp; Backend Systems </text>
+  <text x="860" y="170" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#8B9AAB">Building AI assistants, agents</text>
+  <text x="860" y="200" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#8B9AAB">and backend systems </text>
   <text x="1048" y="200" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#4DA6FF">with Python</text>
 
   <g fill="none" stroke="#E8EEF4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">

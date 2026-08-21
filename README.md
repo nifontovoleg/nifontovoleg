@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=820&lines=Python+Backend+Developer;AI+Automation+and+AI+Agents;Building+AI+Assistants%2C+Agents+%26+Backend+Systems" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=820&lines=Python+Backend+Developer;Telegram+VK+bots+and+AI+automation;Booking%2C+leads%2C+APIs+for+SMB" alt="Typing headline" />
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nifontovoleg-181717?style=flat-square&labelColor=555555&logo=github&logoColor=white)](https://github.com/nifontovoleg)
 [![Website](https://img.shields.io/badge/Website-nifontovv.ru-00CCFF?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://nifontovv.ru/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nifontov.tech-6366F1?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://www.nifontov.tech/)
+[![Applications](https://img.shields.io/badge/Application-nifontov.tech-6366F1?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://www.nifontov.tech/)
 [![Telegram](https://img.shields.io/badge/Telegram-@olegugfv__reg59-26A5E4?style=flat-square&labelColor=555555&logo=telegram&logoColor=white)](https://t.me/olegugfv_reg59)
 [![Email](https://img.shields.io/badge/Email-o.nifontov%40yandex.ru-CF3E2E?style=flat-square&labelColor=555555&logo=gmail&logoColor=white)](mailto:o.nifontov@yandex.ru)
 
@@ -34,19 +34,19 @@
 
 
 ## Python Backend Developer
-### AI Automation and AI Agents
+### Telegram / VK bots and AI automation
 
-I build practical AI-powered backend systems, AI assistants, agents and automation solutions with Python.
+I build Telegram/VK bots, REST APIs, and automation for small businesses: booking, leads, catalogs, Sheets.
 
-Python is the foundation. Backend is the core engineering skill. AI is the specialization. Automation is how these systems create value. Telegram and VK are delivery channels for applied products.
+Python is the foundation. Backend is the core. Bots and AI are how the process reaches the client.
 
 | | |
 | :--- | :--- |
 | **Name** | Oleg |
 | **Role** | Python Backend Developer |
-| **Specialization** | AI Automation and AI Agents |
+| **Specialization** | Bots + AI automation for SMB |
 | **Location** | Russia |
-| **Open to** | Remote · Hybrid · Relocation |
+| **Open to** | Freelance · Remote roles |
 | **Languages** | Russian (Native) · English (Intermediate / Technical Reading) |
 
 
@@ -56,15 +56,13 @@ Python is the foundation. Backend is the core engineering skill. AI is the speci
 
 ## What I Build
 
+- Business bots (booking, leads, shop)
 - Python backend systems
 - REST APIs
-- AI assistants
-- AI agents
-- RAG systems
-- LLM integrations
+- AI assistants and RAG
 - Telegram and VK bots
-- Business automation
-- API integrations
+- Google Sheets / Drive / Calendar automation
+- Application intake (nifontov.tech)
 
 
 <div align="center">
@@ -126,11 +124,17 @@ Telegram AI assistant for a barbershop: dialogue over a service knowledge base, 
 
 **Stack:** Python · python-telegram-bot · GigaChat · SQLite · Google Calendar API (optional)
 
-### [langchain-content-pipeline](https://github.com/nifontovoleg/langchain-content-pipeline)
+### [VKONTAKTE_BOT](https://github.com/nifontovoleg/VKONTAKTE_BOT)
 
-CLI content pipeline: a short brief goes through a 4-step LangChain chain (analysis → tools → generate → review) and is saved as a Telegram post or article draft.
+VK community assistant: GPT chat, 4-step consultation booking, FAQ and quiz on vkbottle.
 
-**Stack:** Python · LangChain · Pydantic v2 · OpenAI-compatible API
+**Stack:** Python · vkbottle · OpenAI-compatible API · JSON storage
+
+### Application form — [nifontov.tech](https://www.nifontov.tech/)
+
+Lead intake: React form, FastAPI, PostgreSQL. Qualifies the brief. Not a portfolio gallery.
+
+**Stack:** FastAPI · PostgreSQL · React · Docker
 
 
 <details>
@@ -152,6 +156,11 @@ CLI content pipeline: a short brief goes through a 4-step LangChain chain (analy
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=strizhka-ai-bot&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="strizhka-ai-bot" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/nifontovoleg/VKONTAKTE_BOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nifontovoleg&repo=VKONTAKTE_BOT&theme=transparent&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&hide_border=true" height="140" alt="VKONTAKTE_BOT" />
+  </a>
+</div>
 </details>
 
 
@@ -163,10 +172,10 @@ CLI content pipeline: a short brief goes through a 4-step LangChain chain (analy
 
 | Project | Focus |
 | :--- | :--- |
+| [langchain-content-pipeline](https://github.com/nifontovoleg/langchain-content-pipeline) | 4-step LangChain: analysis → tools → generate → review |
 | [flask-go-users-api](https://github.com/nifontovoleg/flask-go-users-api) | Users REST API in Flask (and a parallel Go service), SQLite, OpenAPI 3.1 |
 | [langchain-telegram-tool-agent](https://github.com/nifontovoleg/langchain-telegram-tool-agent) | LangChain tool-calling agent: search, weather, FX/crypto, files, HTTP, QR |
 | [dori-nemo-memory-bots](https://github.com/nifontovoleg/dori-nemo-memory-bots) | Two aiogram 3 bots comparing in-memory context vs PostgreSQL facts (SQLAlchemy 2) |
-| [VKONTAKTE_BOT](https://github.com/nifontovoleg/VKONTAKTE_BOT) | VK assistant: GPT chat, consultation booking, quiz and FAQ on vkbottle |
 | [telegram-summary-bot](https://github.com/nifontovoleg/telegram-summary-bot) | Collects Telegram messages into SQLite and builds GigaChat summaries; Flask viewer |
 | [haystack-telegram-agent-v2](https://github.com/nifontovoleg/haystack-telegram-agent-v2) | Haystack agent with Pinecone memory, document RAG and OpenAI tools |
 | [langchain-breed-agent](https://github.com/nifontovoleg/langchain-breed-agent) | LangChain / LangGraph agent with structured output and conversation memory |
@@ -239,7 +248,7 @@ CLI content pipeline: a short brief goes through a 4-step LangChain chain (analy
 | Channel | Details |
 | :--- | :--- |
 | **Website** | [nifontovv.ru](https://nifontovv.ru/) |
-| **Portfolio / applications** | [nifontov.tech](https://www.nifontov.tech/) |
+| **Application form** | [nifontov.tech](https://www.nifontov.tech/) |
 | **GitHub** | [github.com/nifontovoleg](https://github.com/nifontovoleg) |
 | **Email** | [o.nifontov@yandex.ru](mailto:o.nifontov@yandex.ru) |
 | **Telegram** | [@olegugfv_reg59](https://t.me/olegugfv_reg59) |

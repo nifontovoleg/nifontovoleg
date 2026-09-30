@@ -244,11 +244,10 @@ Lead intake: React form, FastAPI, PostgreSQL. Qualifies the brief. Not a portfol
 </div>
 
 ## Contact
-
 | Channel | Details |
 | :--- | :--- |
-| **Website** | [nifontovv.ru](https://nifontovv.ru/) |
-| **Application form** | [nifontov.tech](https://www.nifontov.tech/) |
+| **LinkedIn** | [linkedin.com/in/oleg-nifontov13](https://linkedin.com/in/oleg-nifontov13) |
+| **Kwork** | [kwork.ru/user/onifontov0](https://kwork.ru/user/onifontov0) |
 | **GitHub** | [github.com/nifontovoleg](https://github.com/nifontovoleg) |
 | **Email** | [o.nifontov@yandex.ru](mailto:o.nifontov@yandex.ru) |
 | **Telegram** | [@olegugfv_reg59](https://t.me/olegugfv_reg59) |

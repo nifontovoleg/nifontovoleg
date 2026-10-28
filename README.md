@@ -15,8 +15,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nifontovoleg-181717?style=flat-square&labelColor=555555&logo=github&logoColor=white)](https://github.com/nifontovoleg)
-[![Website](https://img.shields.io/badge/Website-nifontovv.ru-00CCFF?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://nifontovv.ru/)
-[![Applications](https://img.shields.io/badge/Application-nifontov.tech-6366F1?style=flat-square&labelColor=555555&logo=googlechrome&logoColor=white)](https://www.nifontov.tech/)
 [![Telegram](https://img.shields.io/badge/Telegram-@olegugfv__reg59-26A5E4?style=flat-square&labelColor=555555&logo=telegram&logoColor=white)](https://t.me/olegugfv_reg59)
 [![Email](https://img.shields.io/badge/Email-o.nifontov%40yandex.ru-CF3E2E?style=flat-square&labelColor=555555&logo=gmail&logoColor=white)](mailto:o.nifontov@yandex.ru)
 
